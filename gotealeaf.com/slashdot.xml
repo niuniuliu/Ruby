@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-03-16T15:45:14+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/16/1241215/nasa-wants-your-help-hunting-for-asteroids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/16/1231214/zuckerberg-and-gates-backed-startup-seeks-to-shake-up-african-education?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/16/1225220/nipples-terrorism-and-sexual-descriptions---facebooks-list-of-banned-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/16/1220250/is-microsoft-trying-to-become-king-of-search-with-cortana-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/16/1214223/cuba-approves-first-public-wi-fi-hub-in-havana?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/16/0257211/elon-musk-pledges-to-end-range-anxiety-for-tesla-model-s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/16/0243228/yahoo-debuts-end-to-end-encryption-email-plugin-password-free-logins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/03/16/0223207/fujitsu-could-help-smartphone-chips-run-cooler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/16/0228231/why-there-is-no-such-thing-as-proper-english?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/03/15/2115244/ask-slashdot-what-can-distributed-software-development-teams-learn-from-floss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/03/15/219245/valves-steamvr-solves-big-problems-raises-bigger-questions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://politics.slashdot.org/story/15/03/15/2059226/un-backs-fossil-fuel-divestment-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/15/2054250/windows-10-enables-switching-between-desktop-and-tablet-modes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/15/1611231/scientific-study-finds-there-are-too-many-scientific-studies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/15/1441253/nasa-launches-four-spacecraft-to-study-earth-sun-magnetism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://tech.slashdot.org/story/15/03/16/1241215/nasa-wants-your-help-hunting-for-asteroids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> NASA Wants Your Help Hunting For Asteroids</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ucYkWaI4jDU/nasa-wants-your-help-hunting-for-asteroids</link>
+<description>An anonymous reader writes about new NASA software that can help you become an asteroid hunter. "Since the early 20th century, astronomers have relied on the same technique to detect asteroids &amp;mdash; they take images of a section in the sky and look for star-like objects that move between frames. However, with an increase in sensitivity of ground-based telescopes, it has become increasingly difficult for astronomers to sift through the massive pile of data and verify every single detection. In order to increase the frequency of asteroid detection, including of those bodies that could be potential threats to our planet, NASA has released new software, developed in collaboration with Planetary Resources, Inc., capable of running on any standard PC. The software, which can be downloaded for free, will accept images from a telescope and run an algorithm on them to determine celestial bodies that are moving in a manner consistent with an asteroid."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+NASA+Wants+Your+Help+Hunting+For+Asteroids%3A+http%3A%2F%2Fbit.ly%2F1HVyI2A"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F16%2F1241215%2Fnasa-wants-your-help-hunting-for-asteroids%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/16/1241215/nasa-wants-your-help-hunting-for-asteroids?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/16/1241215/nasa-wants-your-help-hunting-for-asteroids?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7107441&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/ucYkWaI4jDU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-16T15:20:00+00:00</dc:date>
+<dc:subject>software</dc:subject>
+<slash:department>I-think-I-got-one</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>15</slash:comments>
+<slash:hit_parade>15,15,10,9,1,1,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/16/1241215/nasa-wants-your-help-hunting-for-asteroids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/16/1231214/zuckerberg-and-gates-backed-startup-seeks-to-shake-up-african-education?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Zuckerberg and Gates-Backed Startup Seeks To Shake Up African Education</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FwiI4qnWt1w/zuckerberg-and-gates-backed-startup-seeks-to-shake-up-african-education</link>
+<description>theodp writes The WSJ reports an army of teachers wielding Nook tablets and backed by investors including Bill Gates and Mark Zuckerberg is on a mission to bring cheap [$6.50/month], internet-based, private education to millions of the world's poorest children in Africa and Asia. In Kenya, 126,000 students are enrolled at 400+ Bridge International Academies that have sprung up across the country since the company was founded in 2009. Bridge's founders are challenging the long-held assumption that governments rather than companies should lead mass education programs. The Nook tablets are used to deliver lesson plans used by teachers (aka "scripted instruction"), as well as to collect test results from students to monitor their progress."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Zuckerberg+and+Gates-Backed+Startup+Seeks+To+Shake+Up+African+Education%3A+http%3A%2F%2Fbit.ly%2F1ClyktR"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F16%2F1231214%2Fzuckerberg-and-gates-backed-startup-seeks-to-shake-up-african-education%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/16/1231214/zuckerberg-and-gates-backed-startup-seeks-to-shake-up-african-education?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/16/1231214/zuckerberg-and-gates-backed-startup-seeks-to-shake-up-african-education?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7107375&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/FwiI4qnWt1w" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-16T14:35:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>dropping-knowledge</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>37</slash:comments>
+<slash:hit_parade>37,34,20,15,5,1,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/16/1231214/zuckerberg-and-gates-backed-startup-seeks-to-shake-up-african-education?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/16/1225220/nipples-terrorism-and-sexual-descriptions---facebooks-list-of-banned-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> Nipples, Terrorism, and Sexual Descriptions - Facebook's List of Banned Content</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mqDw7uASuCM/nipples-terrorism-and-sexual-descriptions---facebooks-list-of-banned-content</link>
+<description>Mark Wilson writes Facebook has updated its Community Standards document, outlining the type of content that is not permitted on the social network. When it's not forcing people to reveal their real names, blocking 'offensive' content, or encouraging users to vote, Facebook is often to be found removing content that has been reported for one reason or another. But what's acceptable, and what's not? A little while back, the site revealed a simplified version of its privacy policy, and now the Community Standards document has received the same treatment. Facebook has set out the types of pictures that are permissible, along with specifying guidelines for other content.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+Nipples%2C+Terrorism%2C+and+Sexual+Descriptions+-+Facebook's+List+of+Banned+Content%3A+http%3A%2F%2Fbit.ly%2F1LiDXi4"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F16%2F1225220%2Fnipples-terrorism-and-sexual-descriptions---facebooks-list-of-banned-content%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/16/1225220/nipples-terrorism-and-sexual-descriptions---facebooks-list-of-banned-content?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/16/1225220/nipples-terrorism-and-sexual-descriptions---facebooks-list-of-banned-content?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7107349&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/mqDw7uASuCM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-16T13:51:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>standards-and-practices</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>57</slash:comments>
+<slash:hit_parade>57,57,42,36,10,7,6</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/16/1225220/nipples-terrorism-and-sexual-descriptions---facebooks-list-of-banned-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/16/1220250/is-microsoft-trying-to-become-king-of-search-with-cortana-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Is Microsoft Trying to Become "King of Search" With Cortana Strategy? </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qc8esXVd6FM/is-microsoft-trying-to-become-king-of-search-with-cortana-strategy</link>
+<description>New submitter Ammalgam writes: Microsoft recently announced that they were porting Cortana over to both Apple and iOS. This move seems to be puzzling to the larger Microsoft community because on it's face, Cortana is not per se a commercial product. But there is an interesting theory emerging. Windows10update.com is speculating that the insertion of Cortana into other platforms is a "Trojan Horse" strategy that will ultimately have Windows, iOS and Android users sending their search requests to Bing. The theory is that enough of those requests will bring Bing to Google's level.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Is+Microsoft+Trying+to+Become+%22King+of+Search%22+With+Cortana+Strategy%3F+%3A+http%3A%2F%2Fbit.ly%2F1EjzqTA"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F16%2F1220250%2Fis-microsoft-trying-to-become-king-of-search-with-cortana-strategy%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/16/1220250/is-microsoft-trying-to-become-king-of-search-with-cortana-strategy?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/16/1220250/is-microsoft-trying-to-become-king-of-search-with-cortana-strategy?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7107331&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/qc8esXVd6FM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-16T13:30:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>big-move</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>55</slash:comments>
+<slash:hit_parade>55,55,36,31,15,7,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/16/1220250/is-microsoft-trying-to-become-king-of-search-with-cortana-strategy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/16/1214223/cuba-approves-first-public-wi-fi-hub-in-havana?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> Cuba Approves First Public Wi-Fi Hub In Havana</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wcym0Ox3o2s/cuba-approves-first-public-wi-fi-hub-in-havana</link>
+<description>An anonymous reader writes that Havana is on the verge of getting its first public wi-fi. "Cuba's state telecom agency Etecsa has granted approval to the artist Kcho to open the country's first public wireless hub at his cultural center. Kcho, who has close ties to the Cuban government, is operating the hub using his own, government-approved internet connection, and paying approximately $900 (&amp;pound;600) per month to run it. Only an estimated 5% &amp;mdash; 25% of Cubans have any type of internet service. That is because internet access is incredibly expensive. For instance, an hour of internet access at a cafe can cost $4.50 &amp;mdash; nearly a week's wages for the average Cuban. Kcho told the Associated Press he decided to offer free internet at the center, which opened in western Havana in January, in order to encourage Cubans to familiarize themselves with the internet."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+Cuba+Approves+First+Public+Wi-Fi+Hub+In+Havana%3A+http%3A%2F%2Fbit.ly%2F1Ejw6rn"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F16%2F1214223%2Fcuba-approves-first-public-wi-fi-hub-in-havana%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/16/1214223/cuba-approves-first-public-wi-fi-hub-in-havana?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/16/1214223/cuba-approves-first-public-wi-fi-hub-in-havana?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7107299&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/wcym0Ox3o2s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-16T13:08:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>let-the-starcraft-begin</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,14,7,6,5,1</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/16/1214223/cuba-approves-first-public-wi-fi-hub-in-havana?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/16/0257211/elon-musk-pledges-to-end-range-anxiety-for-tesla-model-s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Elon Musk Pledges To End "Range Anxiety" For Tesla Model S</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mJgfQknKuKI/elon-musk-pledges-to-end-range-anxiety-for-tesla-model-s</link>
+<description>An anonymous reader writes: Elon Musk has used his Twitter account to announce a press conference on Thursday which he claims will end "range anxiety" for Tesla's Model S sedan. Whatever change they're making will be implemented through an over-the-air software update to the cars, affecting the entire fleet. Range anxiety is the term for a fear that your vehicle won't have enough fuel/charge to reach its destination. It's a common reason for people to avoid buying electric cars, given the much smaller infrastructure build-out compared to gas stations. If Tesla is improving the Model S's range through a software update, then it likely involves optimizations to the battery and to the ways in which power is used. Tesla has also talked about developing a feature called "torque sleep," which puts one of the drive units to sleep while not needed. They say it can wake up and begin delivering torque again "so fast that the driver can't perceive it."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Elon+Musk+Pledges+To+End+%22Range+Anxiety%22+For+Tesla+Model+S%3A+http%3A%2F%2Fbit.ly%2F1GUobqy"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F16%2F0257211%2Felon-musk-pledges-to-end-range-anxiety-for-tesla-model-s%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/16/0257211/elon-musk-pledges-to-end-range-anxiety-for-tesla-model-s?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/16/0257211/elon-musk-pledges-to-end-range-anxiety-for-tesla-model-s?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7104191&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/mJgfQknKuKI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-16T12:24:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>update-will-burn-out-your-amygdala-with-lasers</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>136</slash:comments>
+<slash:hit_parade>136,134,101,89,25,12,9</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/16/0257211/elon-musk-pledges-to-end-range-anxiety-for-tesla-model-s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/16/0243228/yahoo-debuts-end-to-end-encryption-email-plugin-password-free-logins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Yahoo Debuts End-To-End Encryption Email Plugin, Password-Free Logins</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Xif09rLKy_8/yahoo-debuts-end-to-end-encryption-email-plugin-password-free-logins</link>
+<description>An anonymous reader writes: Yahoo has released the source code for a plugin that will enable end-to-end encryption for their email service. They're soliciting feedback from the security community to make sure it's built properly. They plan to roll it out to users by the end of the year. 
+Yahoo also demonstrated a new authentication system that doesn't use permanent passwords. Instead, they allow you to associate your Yahoo account with your phone, and text you a code on demand any time you need to log in. It's basically just the second step of traditional two-step authentication by itself. But Yahoo says they think it's "the first step to eliminating passwords."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Yahoo+Debuts+End-To-End+Encryption+Email+Plugin%2C+Password-Free+Logins%3A+http%3A%2F%2Fbit.ly%2F1Frbj9U"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F16%2F0243228%2Fyahoo-debuts-end-to-end-encryption-email-plugin-password-free-logins%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/16/0243228/yahoo-debuts-end-to-end-encryption-email-plugin-password-free-logins?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/16/0243228/yahoo-debuts-end-to-end-encryption-email-plugin-password-free-logins?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7104133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Xif09rLKy_8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-16T09:19:00+00:00</dc:date>
+<dc:subject>yahoo</dc:subject>
+<slash:department>from-one-end-of-the-internet-to-the-other</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>137</slash:comments>
+<slash:hit_parade>137,135,88,72,18,9,5</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/16/0243228/yahoo-debuts-end-to-end-encryption-email-plugin-password-free-logins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/03/16/0223207/fujitsu-could-help-smartphone-chips-run-cooler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Fujitsu Could Help Smartphone Chips Run Cooler</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8WdJCgsaZ4c/fujitsu-could-help-smartphone-chips-run-cooler</link>
+<description>angry tapir writes: If parts of your phone are sometimes too hot to handle, Fujitsu may have the answer: a thin heat pipe that can spread heat around mobile devices, reducing extremes of temperature. Fujitsu Laboratories created a heat pipe in the form of a loop that's less than 1mm thick. The device can transfer about 20W, about five times more heat than current thin heat pipes or thermal materials, the company said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Fujitsu+Could+Help+Smartphone+Chips+Run+Cooler%3A+http%3A%2F%2Fbit.ly%2F1MDZizG"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F03%2F16%2F0223207%2Ffujitsu-could-help-smartphone-chips-run-cooler%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/03/16/0223207/fujitsu-could-help-smartphone-chips-run-cooler?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/03/16/0223207/fujitsu-could-help-smartphone-chips-run-cooler?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7104049&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/8WdJCgsaZ4c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-16T06:12:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>cool-phones</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>44</slash:comments>
+<slash:hit_parade>44,44,30,27,6,2,1</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/03/16/0223207/fujitsu-could-help-smartphone-chips-run-cooler?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/16/0228231/why-there-is-no-such-thing-as-proper-english?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why There Is No Such Thing as 'Proper English'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HZCopVZUsuA/why-there-is-no-such-thing-as-proper-english</link>
+<description>Pikoro writes: A recent article in the Wall Street Journal explains why the concept of a "proper" English isn't realistic. Quoting: "It's a perpetual lament: The purity of the English language is under assault. These days we are told that our ever-texting teenagers can't express themselves in grammatical sentences. The media delight in publicizing ostensibly incorrect usage. ... As children, we all have the instinct to acquire a set of rules and to apply them. ... We know that a certain practice is a rule of grammar because it&amp;rsquo;s how we see and hear people use the language. ... That&amp;rsquo;s how scholarly linguists work. Instead of having some rule book of what is &amp;ldquo;correct&amp;rdquo; usage, they examine the evidence of how native and fluent nonnative speakers do in fact use the language. Whatever is in general use in a language (not any use, but general use) is for that reason grammatically correct. The grammatical rules invoked by pedants aren&amp;rsquo;t real rules of grammar at all. They are, at best, just stylistic conventions.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+There+Is+No+Such+Thing+as+'Proper+English'%3A+http%3A%2F%2Fbit.ly%2F1GTxZRO"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F16%2F0228231%2Fwhy-there-is-no-such-thing-as-proper-english%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/16/0228231/why-there-is-no-such-thing-as-proper-english?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/16/0228231/why-there-is-no-such-thing-as-proper-english?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7104063&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/HZCopVZUsuA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-16T03:06:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>but-feel-free-to-continue-screaming-at-random-internet-commenters</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>476</slash:comments>
+<slash:hit_parade>476,469,310,265,70,29,20</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/16/0228231/why-there-is-no-such-thing-as-proper-english?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/03/15/2115244/ask-slashdot-what-can-distributed-software-development-teams-learn-from-floss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: What Can Distributed Software Development Teams Learn From FLOSS?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/heZiU1FHUI8/ask-slashdot-what-can-distributed-software-development-teams-learn-from-floss</link>
+<description>An anonymous reader writes: As a long time free software proponent and leader of a small development team (10+ people) within a mid-sized company, I always try to incorporate my experiences from both worlds. Lately I was confronted with the need to accept new team members from abroad working on the same codebase and I expect to have even more telecommuting people on my team in the future (even though research suggests the failure rate of virtual teams could be as high as 70%). On the other hand, FLOSS does not seem to suffer from that problem, despite being developed in a distributed manner more often than not. What can corporations and managers learn from FLOSS to make their distributed teams more successful? Consequently, what FLOSS tools, methods, rules, and policies can and should be incorporated into the software development process within a company more often? I'm interested in hearing what you think, especially regarding technical issues like source code ownership and revision control systems, but also ways of communication, dealing with cultural differences, etc.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What+Can+Distributed+Software+Development+Teams+Learn+From+FLOSS%3F%3A+http%3A%2F%2Fbit.ly%2F1xqnqwV"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F03%2F15%2F2115244%2Fask-slashdot-what-can-distributed-software-development-teams-learn-from-floss%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/03/15/2115244/ask-slashdot-what-can-distributed-software-development-teams-learn-from-floss?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/03/15/2115244/ask-slashdot-what-can-distributed-software-development-teams-learn-from-floss?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7103619&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/heZiU1FHUI8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-16T00:01:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>don't-swear-at-people-unless-you-can-get-away-with-it</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>97</slash:comments>
+<slash:hit_parade>97,94,61,50,25,16,9</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/03/15/2115244/ask-slashdot-what-can-distributed-software-development-teams-learn-from-floss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/03/15/219245/valves-steamvr-solves-big-problems-raises-bigger-questions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Valve's SteamVR: Solves Big Problems, Raises Bigger Questions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pOXGX6tL-RM/valves-steamvr-solves-big-problems-raises-bigger-questions</link>
+<description>An anonymous reader writes: When Valve debuted its SteamVR headset recently, it came as somewhat of a surprise &amp;mdash; it certainly hasn't gotten the same level of hype as the Oculus Rift. But people who got to try out the new headset almost universally impressed with the quality of the hardware and software. Eurogamer has an article about the device expressing both astonishment at how far the technology has come in three short years, as well as skepticism that we'll find anything revolutionary to do with it. Quoting: "R demands a paradigm shift in the thinking of game designers and artists about how they build virtual space and how players should interact with it. We're only at the very beginning of this journey now. ... but this process will likely take years, and at the end of it the games won't resemble those we're currently used to. In short, they won't be Half-Life 3." The author thinks simulation games &amp;mdash; driving, piloting, and space combat &amp;mdash; will be the core of the first wave, and other genres will probably have to wait for the lessons learned making sims good. He adds, "...the practical challenges are great, too &amp;mdash; not least in persuading players to clear enough space in their homes to use this device properly, and the potential for social stigma to attach to the goofy-looking headsets and the players' withdrawal into entirely private experiences. I still think that these present major obstacles to the widespread adoption of VR, which even more practical and commercially realistic offerings like Morpheus will struggle against."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Valve's+SteamVR%3A+Solves+Big+Problems%2C+Raises+Bigger+Questions%3A+http%3A%2F%2Fbit.ly%2F1FpJFKi"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F03%2F15%2F219245%2Fvalves-steamvr-solves-big-problems-raises-bigger-questions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/03/15/219245/valves-steamvr-solves-big-problems-raises-bigger-questions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/03/15/219245/valves-steamvr-solves-big-problems-raises-bigger-questions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7103599&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/pOXGX6tL-RM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-15T23:00:00+00:00</dc:date>
+<dc:subject>displays</dc:subject>
+<slash:department>like-why-do-i-need-three-dimensions-of-candy-crush</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>88</slash:comments>
+<slash:hit_parade>88,85,51,29,14,11,7</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/03/15/219245/valves-steamvr-solves-big-problems-raises-bigger-questions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://politics.slashdot.org/story/15/03/15/2059226/un-backs-fossil-fuel-divestment-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>UN Backs Fossil Fuel Divestment Campaign</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zz-99AgFKD8/un-backs-fossil-fuel-divestment-campaign</link>
+<description>mdsolar sends this report from The Guardian:
+The UN organization in charge of global climate change negotiations is backing the fast-growing campaign persuading investors to sell off their fossil fuel assets. It said it was lending its "moral authority" to the divestment campaign because it shared the ambition to get a strong deal to tackle global warming at a crunch UN summit in Paris in December. The move is likely to be controversial as the economies of many nations at the negotiating table heavily rely on coal, oil and gas. In 2013, coal-reliant Poland hosted the UNFCCC summit and was castigated for arranging a global coal industry summit alongside. Now, the World Coal Association has criticized the UNFCCC's decision to back divestment, saying it threatened investment in cleaner coal technologies.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=UN+Backs+Fossil+Fuel+Divestment+Campaign%3A+http%3A%2F%2Fbit.ly%2F1CjC13b"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F15%2F03%2F15%2F2059226%2Fun-backs-fossil-fuel-divestment-campaign%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://politics.slashdot.org/story/15/03/15/2059226/un-backs-fossil-fuel-divestment-campaign?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://politics.slashdot.org/story/15/03/15/2059226/un-backs-fossil-fuel-divestment-campaign?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7103587&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/zz-99AgFKD8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-15T21:58:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>this-SUV-won't-run-on-unleaded-moral-authority</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>154</slash:comments>
+<slash:hit_parade>154,151,106,86,26,12,5</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/story/15/03/15/2059226/un-backs-fossil-fuel-divestment-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/15/2054250/windows-10-enables-switching-between-desktop-and-tablet-modes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Windows 10 Enables Switching Between Desktop and Tablet Modes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GuhJfFSvAok/windows-10-enables-switching-between-desktop-and-tablet-modes</link>
+<description>jones_supa writes: In Windows 8, you were trapped in either the Modern UI or using the desktop, and going back and forth between the two worlds was cumbersome. Windows 10 takes a hybrid approach, allowing the user to choose between a classic desktop and a full-screen mobile experience. The feature, which has been developed under the name "Continuum," is now simply called "Tablet mode". In the build 9926 of Windows 10 Technical Preview, switching between the modes can finally be tried out. The leaked build 10036 shows that eventually you will also have the option to automate the process for dockable devices. Since Windows 10 is being positioned as the one OS for all of Microsoft's devices, being able to control the desktop and tablet experiences like this is critical to appeasing the consumer.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Windows+10+Enables+Switching+Between+Desktop+and+Tablet+Modes%3A+http%3A%2F%2Fbit.ly%2F18PB2vf"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F15%2F2054250%2Fwindows-10-enables-switching-between-desktop-and-tablet-modes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/15/2054250/windows-10-enables-switching-between-desktop-and-tablet-modes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/15/2054250/windows-10-enables-switching-between-desktop-and-tablet-modes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7103577&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/GuhJfFSvAok" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-15T20:56:00+00:00</dc:date>
+<dc:subject>gui</dc:subject>
+<slash:department>and-never-the-twain-shall-meet</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>192</slash:comments>
+<slash:hit_parade>192,190,145,130,27,17,8</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/15/2054250/windows-10-enables-switching-between-desktop-and-tablet-modes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/15/1611231/scientific-study-finds-there-are-too-many-scientific-studies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Scientific Study Finds There Are Too Many Scientific Studies</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9dBJ2-pGiVk/scientific-study-finds-there-are-too-many-scientific-studies</link>
+<description>HughPickens.com writes: Chris Matyszczyk reports at Cnet that a new scientific study concludes there are too many scientific studies &amp;mdash; scientists simply can't keep track of all the studies in their field. The paper, titled "Attention Decay in Science," looked at all publications (articles and reviews) written in English till the end of 2010 within the database of the Thomson Reuters (TR) Web of Science. For each publication they extracted its year of publication, the subject category of the journal in which it is published and the corresponding citations to that publication. The 'decay' the researchers investigated is how quickly a piece of research is discarded measured by establishing the initial publication, the peak in its popularity and, ultimately, its disappearance from citations in subsequent publications. "Nowadays papers are forgotten more quickly. Attention, measured by the number and lifetime of citations, is the main currency of the scientific community, and along with other forms of recognition forms the basis for promotions and the reputation of scientists," says the study. "Typically, the citation rate of a paper increases up to a few years after its publication, reaches a peak and then decreases rapidly. This decay can be described by an exponential or a power law behavior, as in ultradiffusive processes, with exponential fitting better than power law for the majority of cases (PDF). The decay is also becoming faster over the years, signaling that nowadays papers are forgotten more quickly." Matyszczyk says,"If publication has become too easy, there will be more and more of it."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Scientific+Study+Finds+There+Are+Too+Many+Scientific+Studies%3A+http%3A%2F%2Fbit.ly%2F1Fpbh2a"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F15%2F1611231%2Fscientific-study-finds-there-are-too-many-scientific-studies%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/15/1611231/scientific-study-finds-there-are-too-many-scientific-studies?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/15/1611231/scientific-study-finds-there-are-too-many-scientific-studies?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7103125&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/9dBJ2-pGiVk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-15T19:42:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>my-study-can-beat-up-your-study</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>97</slash:comments>
+<slash:hit_parade>97,97,62,59,17,8,5</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/15/1611231/scientific-study-finds-there-are-too-many-scientific-studies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/15/1441253/nasa-launches-four-spacecraft-to-study-earth-sun-magnetism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NASA Launches Four Spacecraft To Study Earth-Sun Magnetism</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/g4g17SdVQYE/nasa-launches-four-spacecraft-to-study-earth-sun-magnetism</link>
+<description>An anonymous reader writes: Late Thursday NASA used an Atlas rocket to put four new, identical spacecraft into orbit. "The quartet of observatories is being placed into an oblong orbit stretching tens of thousands of miles into the magnetosphere &amp;mdash; nearly halfway to the moon at one point. They will fly in pyramid formation, between 6 miles and 250 miles apart, to provide 3-D views of magnetic reconnection on the smallest of scales. Magnetic reconnection is what happens when magnetic fields like those around Earth and the sun come together, break apart, then come together again, releasing vast energy. This repeated process drives the aurora, as well as solar storms that can disrupt communications and power on Earth. Data from this two-year mission should help scientists better understand so-called space weather."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NASA+Launches+Four+Spacecraft+To+Study+Earth-Sun+Magnetism%3A+http%3A%2F%2Fbit.ly%2F1MDvocY"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F15%2F1441253%2Fnasa-launches-four-spacecraft-to-study-earth-sun-magnetism%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/15/1441253/nasa-launches-four-spacecraft-to-study-earth-sun-magnetism?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/15/1441253/nasa-launches-four-spacecraft-to-study-earth-sun-magnetism?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7102975&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/g4g17SdVQYE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-15T18:40:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>space-magnets-how-do-they-work</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,19,9,7,2,1,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/15/1441253/nasa-launches-four-spacecraft-to-study-earth-sun-magnetism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
